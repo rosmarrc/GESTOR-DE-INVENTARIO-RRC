@@ -1,0 +1,10 @@
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CopyComplete
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb

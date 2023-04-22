@@ -1,0 +1,12 @@
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\CapaDeNegocio.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\bin\Debug\CapaDeNegocio.pdb
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\rosma\source\repos\GESTOR_DE_INVENTARIO_RRC\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
